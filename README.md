@@ -2,7 +2,7 @@ Welcome to Dunk Club!
 
 This is a mobile application for all things relating to dunk club activities 
 
-Contents:
+Contents:  
     1. Dunk Chat  
     2. Record Videos of Dunks and Post  
     3. Keep track of jump progress   
